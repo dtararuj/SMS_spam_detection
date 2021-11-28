@@ -18,3 +18,5 @@ Our model results is:
 - 96% recall in Spam class.
 
 Our results tell us that final model can detect 99% of spam, classifing correctly certain message as a spam with 96% probability (recall).
+
+Kaggle competition worksheet [link](https://www.kaggle.com/tararuj4/sms-spam-detection-accuracy-and-precision-99/edit)
