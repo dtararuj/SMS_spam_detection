@@ -7,7 +7,7 @@ In this case we had to detect spam in text messages.
 The best results we achived using neural network with:
 - 1 recurential layer and 8 Units,
 - emedding layer with size 40,
-- Dense layerwith 2 units and softmax activation layers as an output 
+- Dense layer with 2 units and softmax activation layer as an output 
 - binary_crossentropy loss function,
 - Adam Optimizer with learning rate = 0.01
 
